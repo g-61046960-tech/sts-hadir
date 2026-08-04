@@ -1,6 +1,6 @@
 window.APP_CONFIG = {
   // Gantikan dengan URL Web App Google Apps Script yang berakhir dengan /exec
-  webAppUrl: "https://script.google.com/macros/s/AKfycbz7tFx6LfKuZhelpoep-mw_SZyehwEDYHBoTgHF9mKsz2kxqeuc9XIAJ9-NVH4xN1_v/exec",
+  webAppUrl: "https://script.google.com/macros/s/AKfycbyH2CAUOxa4r2DLE2n6oZ28YwWB-h6L_z-B8yEG39se5VBcfGzSODOJM7LODeQtEDDc/exec",
   admin: { username: "jeb7029", password: "admin" },
   teachers: {
     "Perdana": [
